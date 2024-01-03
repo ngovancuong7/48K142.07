@@ -1,2 +1,0 @@
-# 48K142.07
-NHÓM 7 - PHÂN TÍCH VÀ THIẾT KẾ HỆ THỐNG THÔNG TIN
