@@ -1,0 +1,16 @@
+C:\QTCSDL\SYTEM\SYTEM\bin\Debug\SYTEM.exe.config
+C:\QTCSDL\SYTEM\SYTEM\bin\Debug\SYTEM.exe
+C:\QTCSDL\SYTEM\SYTEM\bin\Debug\SYTEM.pdb
+C:\QTCSDL\SYTEM\SYTEM\obj\Debug\SYTEM.csproj.AssemblyReference.cache
+C:\QTCSDL\SYTEM\SYTEM\obj\Debug\SYTEM.frm_QLNS.resources
+C:\QTCSDL\SYTEM\SYTEM\obj\Debug\SYTEM.frm_NhanSu.resources
+C:\QTCSDL\SYTEM\SYTEM\obj\Debug\SYTEM.Properties.Resources.resources
+C:\QTCSDL\SYTEM\SYTEM\obj\Debug\SYTEM.csproj.GenerateResource.cache
+C:\QTCSDL\SYTEM\SYTEM\obj\Debug\SYTEM.csproj.CoreCompileInputs.cache
+C:\QTCSDL\SYTEM\SYTEM\obj\Debug\SYTEM.exe
+C:\QTCSDL\SYTEM\SYTEM\obj\Debug\SYTEM.pdb
+C:\QTCSDL\SYTEM\SYTEM\obj\Debug\SYTEM.frm_TaiKhoan.resources
+C:\QTCSDL\SYTEM\SYTEM\obj\Debug\SYTEM.frm_LichLamViec.resources
+C:\QTCSDL\SYTEM\SYTEM\obj\Debug\SYTEM.frm_Luong.resources
+C:\QTCSDL\SYTEM\SYTEM\obj\Debug\SYTEM.frm_DGYC.resources
+C:\QTCSDL\SYTEM\SYTEM\obj\Debug\SYTEM.Đăng_Nhập.resources
